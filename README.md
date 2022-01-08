@@ -1,6 +1,7 @@
 Hi, I’m Sunanda.<br>
-I work as a Front-end Developer. I am based in India.<br>
-I’m currently working as a React Developer.<br>
+I am currently pursuing my Masters Degree in CSE from NIT Rourkela.<br>
+I have worked as a Front-end Developer. I am based in India.<br>
+My working profile was a React Developer.<br>
 I always try to grow and learn something new.
 
 <!---
