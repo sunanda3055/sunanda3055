@@ -1,5 +1,6 @@
 Hi, I’m Sunanda.<br>
-I have done Masters Degree in CSE from NIT Rourkela.<br>
+Currently, I am working at Teradata and use the tech stack C++.
+I have done Master's Degree in CSE from NIT Rourkela.<br>
 I have worked as a Front-end Developer. I am based in India.<br>
 My working profile was a React Developer.<br>
 I always try to grow and learn something new.
