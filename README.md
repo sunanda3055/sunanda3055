@@ -1,5 +1,5 @@
 Hi, I’m Sunanda.<br>
-Currently, I am working at Teradata and use the tech stack C++.
+Currently, I am working at Teradata and use the tech stack C++.<br>
 I have done Master's Degree in CSE from NIT Rourkela.<br>
 I have worked as a Front-end Developer. I am based in India.<br>
 My working profile was a React Developer.<br>
